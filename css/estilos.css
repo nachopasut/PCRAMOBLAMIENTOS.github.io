@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+      padding: 0;
+      box-sizing: border-box;}
+    body {
+    height: 100vh;
+    }
+    header {
+     height: 10vh;
+    
+    }
+    /* indexHTML */
+    main {
+    height: 75vh;
+    }
+      
+    footer {
+    height: 25vh;
+    }
+    
+    img{
+        margin:0;
+    }
+    #contenedorimg{
+      background-color:#000000;
+    }
+    #textoli{
+      font-size: 25px;
+    }
+    body{
+      background-color:rgb(33,37,41,255)
+/* PAGINAOFICIAL */
+    }
+    #mainpagof{
+      height: 95vh;
+    }
+#definicionmain_of{
+margin-top: 20px;
+}
+
+#nosotros{
+  font-size: 15;
+}
+#imagenviejo{
+
+ width: 315px;
+ height: 371px;
+}
+
+/* UBICACION */
+#Ubicacion{
+  margin-top: 20px;
+}
+
+#explicacion{
+  font-size: 20px;
+}
+#mainpagub{
+  height: 95vh;
+}
+
+#footerub{
+  height: 20vh;
+}
+
+#map{
+  margin-top: 40px;
+}
+#cont_carrousel{
+  margin-top: 20px;
+}
+
+  @media (max-width: 1024){
+    #mainpagof
+    #footer
+}
