@@ -11,7 +11,12 @@
     
     }
     /* indexHTML */
-    
+    #mubledecocina{
+      height: 400px;
+    }
+    #mueblecocinapiso{
+      height: 400px;
+    }
     main {
     height: 100vh;
     }
