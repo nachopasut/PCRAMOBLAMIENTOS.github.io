@@ -88,7 +88,10 @@ margin-top: 30px;
 #map{
   margin-top: 20px;
 }
-
+#preguntas{
+  background-color: white;
+  font-family: 'Rubik', sans-serif;
+}
 
 
 /* Cocinas */
